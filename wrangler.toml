@@ -1,8 +1,8 @@
-name = "httpbin"
-type = "webpack"
+name = "httpbin-workers"
 account_id = "297f3796498fb0d64e2e9e1c8643cfe1"
-workers_dev = false
+# workers_dev = false
 main = "src/index.ts"
+compatibility_date = "2026-05-11"
 
 [site]
 bucket = "./doc"
